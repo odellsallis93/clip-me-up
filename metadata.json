@@ -1,0 +1,6 @@
+{
+  "name": "Pitch and Taste Explorer",
+  "description": "An interactive full-stack video analysis dashboard exploring Rick Beato and Rick Rubin's discussion on perfect pitch, musical taste, timing grids, and active listening elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
